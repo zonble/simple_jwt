@@ -1,9 +1,8 @@
 # simple_jwt
 
-A library for Dart developers.
+A simple library helps to generate [JSON Web Tokens](https://jwt.io/).
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+The library supports HS256 algorithm only.
 
 ## Usage
 
@@ -19,4 +18,4 @@ A simple usage example:
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/zonble/simple_jwt/issues
